@@ -15,7 +15,7 @@
     or
     <a href="https://github.com/johnsoncodehk/volar" target="_blank">Volar</a>
     (if using
-    <code>&lt;script setup&gt;</code>)
+    <code>&lt;script  反攻倒算 setup&gt;</code>)
   </p>
 
   <p>See <code>README.md</code> for more information.</p>
