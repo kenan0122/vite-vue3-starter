@@ -1,5 +1,5 @@
 import { createApp } from 'vue';
-import ElementPlus from 'element-plus';
+import ElementPlus, { ElIcon } from 'element-plus';
 import App from './App.vue';
 
 import router from './router/index';
@@ -11,4 +11,5 @@ createApp(App)
 .use(router)
 .use(store)
 .use(ElementPlus)
+.use(ElIcon)
 .mount('#app');
