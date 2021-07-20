@@ -30,6 +30,7 @@ export default defineConfig({
       // 设置 `@` 指向 `src` 目录
       '@':resolve(__dirname, 'src')
     },
+    // 解决vite升级问题
     extensions:['.mjs', '.js', '.ts', '.jsx', '.tsx', '.json', '.vue']
   },
   // 设置打包路径
